@@ -1,0 +1,13 @@
+{
+	"message": [
+		{
+			"url": "",
+			"img": "http://127.0.0.1:8080/static/img/img1.png"
+		},
+		{
+			"url": "",
+			"img": "http://127.0.0.1:8080/static/img/img2.png"
+		}
+	],
+	"status": 0
+}
